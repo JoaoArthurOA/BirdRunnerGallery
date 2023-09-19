@@ -49,4 +49,20 @@
     <string name="musicas">Músicas</string>
     <string name="creditos">Créditos</string>
     <string name="sair">Sair</string>
+    <string name="todo">TODO</string>
+    <string name="daff">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="jonas">TODO</string>
+    <string name="pinas">TODO</string>
+    <string name="idle">TODO</string>
+    <string name="dano">TODO</string>
+    <string name="machucado">TODO</string>
+    <string name="duplo">TODO</string>
+    <string name="m_sicas_usadas">Músicas usadas:</string>
+    <string name="title_hanzo_fase_1_penow_pepe_fase_2_red_cr_ditos_unknown">Title - Hanzo Fase 1 - Penow Pepe Fase 2 - Red Créditos: Unknown</string>
+    <string name="cenariofoto">TODO</string>
+    <string name="cenarioprint">TODO</string>
+    <string name="feito_por_felipe_maciel_oliveira_jo_o_arthur_auler_m_sicas_feitas_por_daffdzn">Feito por: Felipe Maciel Oliveira João Arthur Auler Músicas feitas por: Daffdzn</string>
+    <string name="utilizamos_os_assets_de_ansimuz">Utilizamos os assets de Ansimuz</string>
+    <string name="asset">Asset</string>
 </resources>

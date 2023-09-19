@@ -4,6 +4,49 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#AB82FF"
+    android:backgroundTint="#AB82FF"
     tools:context=".Cenario">
+
+    <ImageView
+        android:id="@+id/imageView10"
+        android:layout_width="312dp"
+        android:layout_height="321dp"
+        android:contentDescription="@string/cenariofoto"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.161"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/whatsapp_image_2023_09_19_at_08_05_09" />
+
+    <ImageView
+        android:id="@+id/imageView11"
+        android:layout_width="303dp"
+        android:layout_height="455dp"
+        android:contentDescription="@string/cenarioprint"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.851"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.876"
+        app:srcCompat="@drawable/whatsapp_image_2023_09_19_at_08_05_31" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/utilizamos_os_assets_de_ansimuz"
+        android:textColor="#0D47A1"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.078"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.424" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
