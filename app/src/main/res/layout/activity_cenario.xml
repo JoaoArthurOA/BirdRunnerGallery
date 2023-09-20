@@ -28,11 +28,12 @@
         android:contentDescription="@string/cenarioprint"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.836"
+        app:layout_constraintHorizontal_bias="0.851"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.705"
-        app:srcCompat="@drawable/whatsapp_image_2023_09_19_at_08_05_31" />
+        app:layout_constraintVertical_bias="0.807"
+        app:srcCompat="@drawable/whatsapp_image_2023_09_19_at_08_05_31"
+        tools:ignore="ImageContrastCheck" />
 
     <TextView
         android:id="@+id/textView4"

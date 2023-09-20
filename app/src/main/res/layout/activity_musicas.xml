@@ -42,23 +42,6 @@
         tools:ignore="TextSizeCheck" />
 
     <TextView
-        android:id="@+id/textView8"
-        android:layout_width="341dp"
-        android:layout_height="56dp"
-        android:text="@string/cr_ditos_unknown"
-        android:textAlignment="center"
-        android:textColor="#0D47A1"
-        android:textSize="34sp"
-        android:textStyle="bold"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.708"
-        tools:ignore="TextSizeCheck" />
-
-    <TextView
         android:id="@+id/textView6"
         android:layout_width="355dp"
         android:layout_height="67dp"
@@ -91,5 +74,18 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.567"
         tools:ignore="TextSizeCheck" />
+
+    <ImageView
+        android:id="@+id/imageView14"
+        android:layout_width="435dp"
+        android:layout_height="131dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.998"
+        app:srcCompat="@drawable/pcity"
+        android:contentDescription="@string/ok"
+        tools:ignore="VisualLintBounds" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
