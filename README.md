@@ -12,4 +12,4 @@ Foi desenvolvido um jogo plataforma inspirado nos antigos jogos de flash e tamb√
 
 Link da Wiki: https://github.com/JoaoArthurOA/BirdRunnerGallery/wiki#bird-runner-gallery
 
-Link do Drive: [https://drive.google.com/file/d/1wS61PlDQ2PxRjQyavoyUqpP88xM4V8gC/view?usp=drive_link](https://drive.google.com/file/d/1wS61PlDQ2PxRjQyavoyUqpP88xM4V8gC/view?usp=drive_link)https://drive.google.com/file/d/1wS61PlDQ2PxRjQyavoyUqpP88xM4V8gC/view?usp=drive_link
+Link do Drive: [https://drive.google.com/file/d/1wS61PlDQ2PxRjQyavoyUqpP88xM4V8gC/view?usp=drive_link](https://drive.google.com/file/d/1wS61PlDQ2PxRjQyavoyUqpP88xM4V8gC/view?usp=drive_link)
